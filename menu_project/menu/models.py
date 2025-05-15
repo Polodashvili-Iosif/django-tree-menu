@@ -38,6 +38,17 @@ class MenuItem(models.Model):
         ordering = ['parent__id', 'title']
         unique_together = ('menu', 'parent', 'title')
 
+    def clean(self):
+        if not self.is_named_url and self.url:
+            if not self.url.startswith('/'):
+                self.url = '/' + self.url
+            if not self.url.endswith('/'):
+                self.url += '/'
+
+    def save(self, *args, **kwargs):
+        self.full_clean()
+        super().save(*args, **kwargs)
+
     def __str__(self):
         return self.title
 
