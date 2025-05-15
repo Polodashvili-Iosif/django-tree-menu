@@ -1,0 +1,1044 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2025-05-15T16:34:59.755Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Электроника",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2025-05-15T16:35:41.027Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Смартфоны",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2025-05-15T16:36:06.627Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Электроника",
+        "action_flag": 2,
+        "change_message": "[{\"added\": {\"name\": \"\\u041f\\u0443\\u043d\\u043a\\u0442 \\u043c\\u0435\\u043d\\u044e\", \"object\": \"\\u041f\\u041a\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2025-05-15T17:01:11.539Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Электроника",
+        "action_flag": 2,
+        "change_message": "[{\"added\": {\"name\": \"\\u041f\\u0443\\u043d\\u043a\\u0442 \\u043c\\u0435\\u043d\\u044e\", \"object\": \"Iphone\"}}, {\"changed\": {\"name\": \"\\u041f\\u0443\\u043d\\u043a\\u0442 \\u043c\\u0435\\u043d\\u044e\", \"object\": \"\\u0421\\u043c\\u0430\\u0440\\u0442\\u0444\\u043e\\u043d\\u044b\", \"fields\": [\"\\u0421\\u0441\\u044b\\u043b\\u043a\\u0430 \\u0438\\u043b\\u0438 named url\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2025-05-15T17:01:37.421Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Электроника",
+        "action_flag": 2,
+        "change_message": "[{\"added\": {\"name\": \"\\u041f\\u0443\\u043d\\u043a\\u0442 \\u043c\\u0435\\u043d\\u044e\", \"object\": \"Samsung\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2025-05-15T17:02:16.680Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Электроника",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"name\": \"\\u041f\\u0443\\u043d\\u043a\\u0442 \\u043c\\u0435\\u043d\\u044e\", \"object\": \"iPhone\", \"fields\": [\"\\u041d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2025-05-15T17:04:55.176Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Электроника",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"name\": \"\\u041f\\u0443\\u043d\\u043a\\u0442 \\u043c\\u0435\\u043d\\u044e\", \"object\": \"iPhone\", \"fields\": [\"\\u0421\\u0441\\u044b\\u043b\\u043a\\u0430 \\u0438\\u043b\\u0438 named url\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2025-05-15T17:05:22.349Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Электроника",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"name\": \"\\u041f\\u0443\\u043d\\u043a\\u0442 \\u043c\\u0435\\u043d\\u044e\", \"object\": \"Apple\", \"fields\": [\"\\u041d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435\", \"\\u0421\\u0441\\u044b\\u043b\\u043a\\u0430 \\u0438\\u043b\\u0438 named url\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2025-05-15T17:05:47.185Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Электроника",
+        "action_flag": 2,
+        "change_message": "[{\"added\": {\"name\": \"\\u041f\\u0443\\u043d\\u043a\\u0442 \\u043c\\u0435\\u043d\\u044e\", \"object\": \"Galaxy\"}}, {\"changed\": {\"name\": \"\\u041f\\u0443\\u043d\\u043a\\u0442 \\u043c\\u0435\\u043d\\u044e\", \"object\": \"Apple\", \"fields\": [\"\\u0421\\u0441\\u044b\\u043b\\u043a\\u0430 \\u0438\\u043b\\u0438 named url\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2025-05-15T17:15:26.512Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Электроника",
+        "action_flag": 2,
+        "change_message": "[{\"added\": {\"name\": \"\\u041f\\u0443\\u043d\\u043a\\u0442 \\u043c\\u0435\\u043d\\u044e\", \"object\": \"Galaxy Z\"}}, {\"added\": {\"name\": \"\\u041f\\u0443\\u043d\\u043a\\u0442 \\u043c\\u0435\\u043d\\u044e\", \"object\": \"Galaxy A\"}}, {\"changed\": {\"name\": \"\\u041f\\u0443\\u043d\\u043a\\u0442 \\u043c\\u0435\\u043d\\u044e\", \"object\": \"Galaxy S\", \"fields\": [\"\\u041d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435\", \"\\u0421\\u0441\\u044b\\u043b\\u043a\\u0430 \\u0438\\u043b\\u0438 named url\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2025-05-15T17:16:01.976Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Электроника",
+        "action_flag": 2,
+        "change_message": "[{\"added\": {\"name\": \"\\u041f\\u0443\\u043d\\u043a\\u0442 \\u043c\\u0435\\u043d\\u044e\", \"object\": \"IPhone 11\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2025-05-15T17:16:24.453Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Электроника",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"name\": \"\\u041f\\u0443\\u043d\\u043a\\u0442 \\u043c\\u0435\\u043d\\u044e\", \"object\": \"Galaxy A\", \"fields\": [\"\\u0420\\u043e\\u0434\\u0438\\u0442\\u0435\\u043b\\u044c\\u0441\\u043a\\u0438\\u0439 \\u043f\\u0443\\u043d\\u043a\\u0442 \\u043c\\u0435\\u043d\\u044e\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2025-05-15T18:50:21.035Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Электроника",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2025-05-15T18:50:34.285Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Электроника",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2025-05-15T18:50:41.790Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "ПК",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2025-05-15T18:50:43.362Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Смартфоны",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2025-05-15T18:50:45.098Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Смартфоны",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2025-05-15T18:50:46.401Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "Apple",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2025-05-15T18:50:47.632Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "4",
+        "object_repr": "Samsung",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2025-05-15T18:50:48.844Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "8",
+        "object_repr": "IPhone 11",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2025-05-15T18:50:50.414Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "8",
+        "object_repr": "IPhone 11",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2025-05-15T18:50:51.908Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "7",
+        "object_repr": "Galaxy A",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2025-05-15T18:50:53.240Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "5",
+        "object_repr": "Galaxy S",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2025-05-15T18:50:54.900Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "6",
+        "object_repr": "Galaxy Z",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2025-05-15T18:50:57.266Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "8",
+        "object_repr": "IPhone 11",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2025-05-15T18:50:58.331Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "4",
+        "object_repr": "Samsung",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2025-05-15T18:50:59.765Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "Apple",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2025-05-15T18:51:01.169Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Смартфоны",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2025-05-15T18:51:02.440Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "8",
+        "object_repr": "IPhone 11",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2025-05-15T18:51:03.721Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "7",
+        "object_repr": "Galaxy A",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2025-05-15T18:51:05.203Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "5",
+        "object_repr": "Galaxy S",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2025-05-15T18:51:06.585Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "6",
+        "object_repr": "Galaxy Z",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2025-05-15T18:53:20.385Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "9",
+        "object_repr": "Apple",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2025-05-15T18:54:42.903Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "9",
+        "object_repr": "Apple",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u0441\\u044b\\u043b\\u043a\\u0430 \\u0438\\u043b\\u0438 named url\", \"Named url\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2025-05-15T19:01:31.296Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Продукты",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2025-05-15T19:02:10.368Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Продукты",
+        "action_flag": 2,
+        "change_message": "[{\"added\": {\"name\": \"\\u041f\\u0443\\u043d\\u043a\\u0442 \\u043c\\u0435\\u043d\\u044e\", \"object\": \"\\u041c\\u043e\\u043b\\u043e\\u0447\\u043d\\u044b\\u0435 \\u043f\\u0440\\u043e\\u0434\\u0443\\u043a\\u0442\\u044b\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2025-05-15T19:02:31.068Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Продукты",
+        "action_flag": 2,
+        "change_message": "[{\"added\": {\"name\": \"\\u041f\\u0443\\u043d\\u043a\\u0442 \\u043c\\u0435\\u043d\\u044e\", \"object\": \"\\u041c\\u043e\\u043b\\u043e\\u043a\\u043e\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2025-05-15T19:02:49.018Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Продукты",
+        "action_flag": 2,
+        "change_message": "[{\"added\": {\"name\": \"\\u041f\\u0443\\u043d\\u043a\\u0442 \\u043c\\u0435\\u043d\\u044e\", \"object\": \"\\u042f\\u0439\\u0446\\u0430\"}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2025-05-15T19:03:26.435Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Продукты",
+        "action_flag": 2,
+        "change_message": "[{\"added\": {\"name\": \"\\u041f\\u0443\\u043d\\u043a\\u0442 \\u043c\\u0435\\u043d\\u044e\", \"object\": \"\\u041e\\u0432\\u043e\\u0449\\u0438\"}}]"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 4,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 4,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 4,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 4,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 5,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 5,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 5,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 5,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 6,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 6,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 6,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 6,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add Меню",
+        "content_type": 7,
+        "codename": "add_menu"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change Меню",
+        "content_type": 7,
+        "codename": "change_menu"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete Меню",
+        "content_type": 7,
+        "codename": "delete_menu"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view Меню",
+        "content_type": 7,
+        "codename": "view_menu"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add Пункт меню",
+        "content_type": 8,
+        "codename": "add_menuitem"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change Пункт меню",
+        "content_type": 8,
+        "codename": "change_menuitem"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete Пункт меню",
+        "content_type": 8,
+        "codename": "delete_menuitem"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view Пункт меню",
+        "content_type": 8,
+        "codename": "view_menuitem"
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$1000000$9lizqfXOuR2Tk2mO3hc53w$QO8DPZxld7HLMb+NZTXnxUuRsgIyhMKpUj1D+4dSEOo=",
+        "last_login": "2025-05-15T15:10:12.398Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2025-05-15T15:09:58.419Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "menu",
+        "model": "menu"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "menu",
+        "model": "menuitem"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "085bn2mhtqq5v2x5vt9paq970ns0ty4m",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RDYLZX16L1vIAuLUjU0Ke3J-HdD0oNeZybzVoH3rYS95TXMoi7KqtMvi5yeuXYhD673RaelbuscdU_0YZueFsmv69H-DQq30rccDfrE3osQOAsWQcTiGJkMZnBgmUiAIXr0wxgdUT4PiMbcXMqkPl_J6TcH:1uFaDs:9b2cCPVk0eE6ZPFz_o9TUtwu8mNKhHY-LXSeDhgYLo8",
+        "expire_date": "2025-05-29T15:10:12.405Z"
+    }
+},
+{
+    "model": "menu.menu",
+    "pk": 1,
+    "fields": {
+        "title": "Электроника"
+    }
+},
+{
+    "model": "menu.menu",
+    "pk": 2,
+    "fields": {
+        "title": "Продукты"
+    }
+},
+{
+    "model": "menu.menuitem",
+    "pk": 1,
+    "fields": {
+        "menu": 1,
+        "parent": null,
+        "title": "Смартфоны",
+        "url": "/smartphones/",
+        "is_named_url": false
+    }
+},
+{
+    "model": "menu.menuitem",
+    "pk": 2,
+    "fields": {
+        "menu": 1,
+        "parent": null,
+        "title": "ПК",
+        "url": "pc",
+        "is_named_url": true
+    }
+},
+{
+    "model": "menu.menuitem",
+    "pk": 3,
+    "fields": {
+        "menu": 1,
+        "parent": 1,
+        "title": "Apple",
+        "url": "/apple/",
+        "is_named_url": false
+    }
+},
+{
+    "model": "menu.menuitem",
+    "pk": 4,
+    "fields": {
+        "menu": 1,
+        "parent": 1,
+        "title": "Samsung",
+        "url": "/samsung/",
+        "is_named_url": false
+    }
+},
+{
+    "model": "menu.menuitem",
+    "pk": 5,
+    "fields": {
+        "menu": 1,
+        "parent": 4,
+        "title": "Galaxy S",
+        "url": "/galaxy_s/",
+        "is_named_url": false
+    }
+},
+{
+    "model": "menu.menuitem",
+    "pk": 6,
+    "fields": {
+        "menu": 1,
+        "parent": 4,
+        "title": "Galaxy Z",
+        "url": "/galaxy_z/",
+        "is_named_url": false
+    }
+},
+{
+    "model": "menu.menuitem",
+    "pk": 7,
+    "fields": {
+        "menu": 1,
+        "parent": 4,
+        "title": "Galaxy A",
+        "url": "/galaxy_a/",
+        "is_named_url": false
+    }
+},
+{
+    "model": "menu.menuitem",
+    "pk": 8,
+    "fields": {
+        "menu": 1,
+        "parent": 3,
+        "title": "IPhone 11",
+        "url": "/iphone_11/",
+        "is_named_url": false
+    }
+},
+{
+    "model": "menu.menuitem",
+    "pk": 9,
+    "fields": {
+        "menu": 1,
+        "parent": 2,
+        "title": "Apple",
+        "url": "apple",
+        "is_named_url": true
+    }
+},
+{
+    "model": "menu.menuitem",
+    "pk": 10,
+    "fields": {
+        "menu": 2,
+        "parent": null,
+        "title": "Молочные продукты",
+        "url": "/milk-products/",
+        "is_named_url": false
+    }
+},
+{
+    "model": "menu.menuitem",
+    "pk": 11,
+    "fields": {
+        "menu": 2,
+        "parent": 10,
+        "title": "Молоко",
+        "url": "/milk/",
+        "is_named_url": false
+    }
+},
+{
+    "model": "menu.menuitem",
+    "pk": 12,
+    "fields": {
+        "menu": 2,
+        "parent": 10,
+        "title": "Яйца",
+        "url": "/eggs/",
+        "is_named_url": false
+    }
+},
+{
+    "model": "menu.menuitem",
+    "pk": 13,
+    "fields": {
+        "menu": 2,
+        "parent": null,
+        "title": "Овощи",
+        "url": "/vegetables/",
+        "is_named_url": false
+    }
+}
+]

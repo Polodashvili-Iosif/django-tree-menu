@@ -1,0 +1,18 @@
+{% load menu_tags %}
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Меню</title>
+</head>
+<body>
+  <h1>Главная страница</h1>
+
+  <h2>Электроника</h2>
+  {% draw_menu 'Электроника' %}
+
+  <h2>Продукты</h2>
+  {% draw_menu 'Продукты' %}
+</body>
+</html>
