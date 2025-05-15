@@ -1,0 +1,14 @@
+name: Django tree menu workflow
+
+on: push
+
+jobs:
+  send_message:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send message
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: Django tree menu workflow executed successfully.
