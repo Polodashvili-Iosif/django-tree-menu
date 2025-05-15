@@ -41,10 +41,11 @@ def build_tree(
             tree.append(item)
 
     current = active_item
-    current.active = True
-    while current:
-        current.expanded = True
-        current = id_map.get(current.parent_id)
+    if current is not None:
+        current.active = True
+        while current:
+            current.expanded = True
+            current = id_map.get(current.parent_id)
 
     return tree
 
